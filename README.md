@@ -156,7 +156,7 @@ CNN-based agricultural vision systems are used for:
 - weed identification
 - crop maturity detection
 - pest monitoring
-- 
+
 **Final Conclusion**
 Computer vision combined with CNNs can significantly improve agricultural productivity by automatically detecting crop health issues from images.
 This helps farmers make faster and more accurate decisions while reducing labor and improving crop quality.
