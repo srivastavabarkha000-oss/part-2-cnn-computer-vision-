@@ -99,4 +99,64 @@ CNNs are powerful deep learning models for computer vision because they:
 This makes CNNs highly suitable for manufacturing defect detection and image classification tasks.
 
 **Task 7: Business Use Case Mapping**
+**Agriculture Use Case**
 
+This type of computer vision solution can be applied in the agriculture industry for automatic crop and plant health monitoring.
+
+Farmers often need to identify problems such as:
+- plant diseases
+- leaf damage
+- nutrient deficiencies
+- pest infections
+- unhealthy crops
+
+Traditionally, crop inspection is performed manually, which can be:
+- slow
+- labor-intensive
+- expensive
+- difficult for large farms
+
+A CNN-based computer vision system can analyze plant or crop images and automatically classify them into categories such as:
+- healthy
+- diseased
+- pest-affected
+- nutrient-deficient
+**How the System Works**
+Images of crops or leaves are captured using:
+- cameras, drones, smartphones
+- The CNN model processes the images.
+
+The model identifies visible patterns such as:
+- spots
+- discoloration
+- holes
+- damaged textures
+The system predicts the crop condition or disease category.
+
+**Benefits in Agriculture**
+**Early Disease Detection**
+The system can detect plant diseases at an early stage before they spread across the farm.
+
+**Improved Crop Yield**
+Identifying unhealthy crops early helps farmers take corrective action quickly, improving productivity.
+
+**Reduced Manual Inspection**
+Automated monitoring reduces the need for continuous manual field inspection.
+
+**Precision Agriculture**
+Farmers can apply fertilizers or pesticides only where needed, reducing waste and cost.
+
+**Large-Scale Monitoring**
+Drone or camera-based systems can inspect large agricultural fields efficiently.
+
+**Example Applications**
+CNN-based agricultural vision systems are used for:
+- leaf disease detection
+- fruit quality inspection
+- weed identification
+- crop maturity detection
+- pest monitoring
+- 
+**Final Conclusion**
+Computer vision combined with CNNs can significantly improve agricultural productivity by automatically detecting crop health issues from images.
+This helps farmers make faster and more accurate decisions while reducing labor and improving crop quality.
